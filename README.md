@@ -4,6 +4,7 @@ Search:
 - https://m.youtube.com/results?search_query=how+inverter+works
 
 # Video:
+- [Power Inverters Explained - How do they work working principle IGBT](https://youtu.be/iIqhAX0I7lI)
 - [What is an Inverter and What Does It Do?](https://youtu.be/8XI6GVLjPng)
 - [Basic Concept of an Inverter](https://youtu.be/DZV7zp5pExk)
 - [Voltage and Current Source Inverters](https://youtu.be/sk_LbtRxcKY)
